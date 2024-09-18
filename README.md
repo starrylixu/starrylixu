@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I’ m Starry
+
 
 <!--
 **starrylixu/starrylixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=starrylixu&show_icons=true&theme=transparent)
+![Visitor Count](https://profile-counter.glitch.me/starrylixu/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starrylixu&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=starrylixu&theme=dracula)
+
+
+
